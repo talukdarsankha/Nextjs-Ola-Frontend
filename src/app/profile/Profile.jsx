@@ -7,7 +7,9 @@ import { Avatar, Button, IconButton } from '@mui/material';
 import { deepOrange } from '@mui/material/colors';
 import { useRouter } from 'next/navigation';
 import React from 'react'
-import RideCard from '../components/user/RideCard/RideCard';
+
+ // ridecard
+import RideCard from '../components/User/RideCard/RideCard';
 
 const Profile = () => {
 
